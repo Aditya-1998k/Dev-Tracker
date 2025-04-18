@@ -27,10 +27,10 @@
 
 | ❌ Status | Question Link                                                                                                   | A Progress | V Progress |
 |----------|------------------------------------------------------------------------------------------------------------------|------------|------------|
-|          | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                    |            |            |
-|          | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                  |            |            |
-|          | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                            |            |            |
-|          | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                    |            |            |
+|          | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                    |            |      ✅    |
+|          | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                  |            |      ✅    |
+|          | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                            |            |      ✅    |
+|          | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                    |            |      ✅    |
 |          | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                              |            |            |
 |          | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)         |            |            |
 |          | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                        |            |            |
